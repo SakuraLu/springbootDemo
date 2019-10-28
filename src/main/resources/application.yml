@@ -1,0 +1,5 @@
+
+spring:
+  profiles:
+    #    指定激活的环境，若是dev则激活的是application-dev.yml,若是prod，激活的就是application-prod.yml文件
+    active: dev
